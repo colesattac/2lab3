@@ -147,7 +147,7 @@ public class MainActivity extends AppCompatActivity {
             for (int i = 0; i < columns; i++) {
                 for (int j = 0; j < rows; j++) {
                     int cl = arr[j][i];
-                    if (cl % 2 == 0) {
+                    if (cl % 2 != 0) {
                         arr[j][i] = count;
                     }
                 }
