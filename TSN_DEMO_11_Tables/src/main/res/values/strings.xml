@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TSN_DEMO_11_Tables</string>
+    <string name="action_settings">Settings</string>
+    <string name="taskText">Подсчитать количество нулей в таблице и заменить на это значение все нечетные целые элементы таблицы</string>
+    <string name="solve">Выполнить задание</string>
+    <string name="fillRand">Заполнить случайными числами</string>
+</resources>
